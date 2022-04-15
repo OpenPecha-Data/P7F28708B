@@ -1,0 +1,28 @@
+id: P7F28708B
+initial_creation_type: input
+source_metadata:
+  title: Sakya Religious History by bCo brgyad khri chen rin po che (1919–2007)
+  author: བཅོ་བརྒྱད་ཁྲི་ཆེན་ཐུབ་བསྟན་ལེགས་བཤད་རྒྱ་མཚོ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2019-12-20);
+    no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:ཀུན་དགའ་རྡོ་རྗེ། (kun)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/3737
+  bases:
+    7dba:
+      title: Sakya Religious History by bCo brgyad khri chen rin po che (1919–2007)
+      order: 1
+      base_file: 7dba.txt
+created_at: '2022-04-15T19:09:50.919490'
+last_modified_at: '2022-04-15T19:09:50.919498'
+quality: null
